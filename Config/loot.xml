@@ -1,0 +1,4 @@
+<config>
+	<set xpath="/lootcontainers/lootcontainer[@name='bookcase']/@size">7,10</set>
+</config>
+	
